@@ -4,3 +4,14 @@ body {
   background-color: #eee;
   font-family: 'Montserrat', sans-serif;
 }
+
+button {
+  display: block;
+  margin: 15px auto;
+}
+
+#bio {
+  max-width: 60%;
+  margin: 15px auto;
+  padding: 10px;
+}
